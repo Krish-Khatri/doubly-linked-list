@@ -12,3 +12,5 @@ efficiency, using the following observation:
      than or equal to B. 
   2. If run A dominates run B then run B can and should be removed
      from the list.
+
+The class also provides an array where the elements of the array point to entries in the list.
